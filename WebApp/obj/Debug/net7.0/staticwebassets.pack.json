@@ -1,55 +1,55 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\logo.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\120x113.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\120x113.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\120x113.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\1920x300.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\1920x300.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\1920x300.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\200x122.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\200x122.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\200x122.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\270x295.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\270x295.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\270x295.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\369x310.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\369x310.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\369x310.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\370x295.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\370x295.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\370x295.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\469x356.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\469x356.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\469x356.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\501x430.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\501x430.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\501x430.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\625x647.svg",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\625x647.svg",
       "PackagePath": "staticwebassets\\images\\placeholders\\625x647.svg"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\win22-aspnet-master\\win22-aspnet-master\\lektion-3\\ViewsAndPartialViews\\WebApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Dell\\Desktop\\projekt3\\ViewsAndPartialViews\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
